@@ -19,7 +19,8 @@ login activity using a configurable threshold.
 
 Here is the analyzer running against the included sample authentication log:
 
-![Failed Login Log Analyzer terminal output](assets/login-analyzer-demo.png)
+<img width="900" height="741" alt="login-analyzer-demo" src="https://github.com/user-attachments/assets/07c401ae-4540-401f-a950-dafa1a56d6c7" />
+
 
 ## Requirements
 
