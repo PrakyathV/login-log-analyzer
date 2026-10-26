@@ -1,0 +1,14 @@
+# Raw datasets
+data/raw/
+
+# Generated reports
+reports/*.txt
+
+# Python files
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local secrets and backups
+.env
+main.py.backup
