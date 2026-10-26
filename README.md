@@ -15,6 +15,12 @@ login activity using a configurable threshold.
 - Process large logs line by line.
 - Include automated unit tests.
 
+## Demo
+
+Here is the analyzer running against the included sample authentication log:
+
+![Failed Login Log Analyzer terminal output](assets/login-analyzer-demo.png)
+
 ## Requirements
 
 - Python 3.10+
